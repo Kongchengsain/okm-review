@@ -2,7 +2,8 @@
 This project is a tool that collects POCs, especially the. exe tool targeting specific vulnerabilities. This project connects users and specific tools through adhesive code, eliminating the hassle of searching and the shortcomings of the original tools.
 ### Basic Usage (Such As CVE-2024-38077)：
 
-<img width="776" alt="ff05e36698439b7ea8d28bf94858ee1" src="https://github.com/user-attachments/assets/69c17ee4-a747-4162-a58b-ee65c33790ac">
+<img width="877" alt="2d35e8cb6acfeb32774399fad08cb6c" src="https://github.com/user-attachments/assets/046aa7b3-9548-4359-9a31-93aa1fc78517">
+
 
 ### Usage：
 &nbsp;&nbsp;&nbsp;&nbsp;-i&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Input the target ip address like 192.168.1.1 or ip scope like 192.168.1.1/24<br />
