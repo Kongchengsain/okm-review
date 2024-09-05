@@ -1,4 +1,5 @@
-# okm-review [English](README.md), [中文](README_zh.md).**
+# okm-review 
+## [English](README.md) | [中文](README_zh.md)
 This project is a tool that collects POCs, especially the. exe tool targeting specific vulnerabilities. This project connects users and specific tools through adhesive code, eliminating the hassle of searching and the shortcomings of the original tools.
 ### Basic Usage (Such As CVE-2024-38077)：
 
